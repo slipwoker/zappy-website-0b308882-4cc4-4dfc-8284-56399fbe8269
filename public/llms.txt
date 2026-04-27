@@ -1,0 +1,59 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+גלה עולם של שמירה רוחנית עמוקה: קמעות מקוריים, חותמות שלמה המלך ונרות אנרגטיים. הגן על עצמך ועל יקיריך מעין הרע עוד היום.
+
+### מסורת ואומנות
+https://example.com/tradition-craftsmanship
+כל פריט נוצר ביד אמן מתוך נאמנות מוחלטת לתורה הקדושה ולמסורת הקבלה. חותמות על נחושת וקלף כשר — רוחניות שאפשר לגעת בה.
+
+### שימושי הגנה
+https://example.com/protection-uses
+נרות אנרגטיים לטיהור הבית, קמעות לשמירה על יילודים ופריטים לפרנסה ופתיחת מזל. גלה כיצד הקבלה יכולה לשנות את חייך לטובה.
+
+### צור קשר
+https://example.com/contact
+יש שאלה על קמע, הגנה רוחנית או פתיחת מזל? צור קשר עם אמנון היום וקבל ייעוץ אישי מבוסס על חכמת הקבלה האותנטית. אנחנו כאן בשבילך.
+
+### Products
+https://example.com/products
+המוצרים שלנו - אמנון חכמת הקבלה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - אמנון חכמת הקבלה
+
+### Category
+https://example.com/category/:slug
+מוצרים - אמנון חכמת הקבלה
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
